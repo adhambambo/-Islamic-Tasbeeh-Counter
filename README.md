@@ -1,4 +1,4 @@
-# flutter_application_1
+# SEB7A COUNTER APP _1
 
 A new Flutter project.
 
